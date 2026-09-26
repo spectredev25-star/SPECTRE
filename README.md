@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 Computer Engineering Student · Software Builder · Data Explorer
 
-<img src="./assets/terminal-hero.png" width="900"/>
+<img src="./assets/terminal-hero.jpg" width="900"/>
 
 <br/>
 
@@ -46,7 +46,7 @@ I enjoy turning ideas into working systems — from software and APIs to enginee
 
 <div align="center">
 
-<img src="./assets/terminal-status.png" width="900"/>
+<img src="./assets/terminal-status.jpg" width="900"/>
 
 </div>
 
@@ -103,7 +103,7 @@ spectre@engineering-lab:~/projects$ tree
 
 <div align="center">
 
-<img src="./assets/terminal-projects.png" width="900"/>
+<img src="./assets/terminal-projects.jpg" width="900"/>
 
 </div>
 
