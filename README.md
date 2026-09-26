@@ -293,7 +293,7 @@ spectre@engineering-lab:~$ ./connect.sh
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spectredev25-star)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spectredev25-star/SPECTRE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/spectre-dev-1a42a5417/)
 
