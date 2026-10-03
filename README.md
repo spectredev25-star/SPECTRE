@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 Computer Engineering Student · Software Builder · Data Explorer
 
-<img src="C:\Users\SPECTRE\Downloads\8351153.gif" width="900"/>
+<img src="assets/8351153.gif" width="900"/>
 
 <br/>
 
